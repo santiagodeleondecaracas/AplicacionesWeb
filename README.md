@@ -4,4 +4,4 @@ Ejemplo:
 
 Santo Domingo
 
-A continucación, va a mostrar la temperatura de Santo Domingo junto a otros datos meteorológicos.
+A continuación, va a mostrar la temperatura de Santo Domingo junto a otros datos meteorológicos.
